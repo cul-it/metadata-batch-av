@@ -1,5 +1,5 @@
 #AV Digitization to eCommons Metadata Docs
-*point person: [Christina](mailto:cmh329@cornell.edu)*
+*Metadata point person: [Christina](mailto:cmh329@cornell.edu)*
 
 ##Metadata Workflow
 This section primarily focuses on where Metadata Services (in particular Christina) plays a role. Has end-to-end workflow as she understands it, for sake of clarification.

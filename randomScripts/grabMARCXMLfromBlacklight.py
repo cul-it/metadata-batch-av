@@ -7,12 +7,13 @@ postKaltura_file = sys.argv[1]
 csvfile = csv.reader(open(postKaltura_file), delimiter=',')
 bibids = []
 for row in csvfile:
-    if row[4] not in bibids and row[4] and row[4] != 'AccessionNumber':
-        bibids.append(row[4])
+    if row[2] and row[2] != 'Accession Number':
+        print(row[2])
+        bibids.append(row[2])
 
 baseURL = 'https://newcatalog.library.cornell.edu/catalog/'
 
-directory = "data/CUlecturetapes_20160211/marcxml/"
+directory = "data/Africana_20160225/marc/"
 if not os.path.exists(directory):
     os.makedirs(directory)
 allmarc = open(directory + 'allmarc.xml', 'w')
