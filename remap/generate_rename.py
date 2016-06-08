@@ -34,9 +34,9 @@ with open(remap_input, 'rb') as csvfile:
             newbase = newnames[i].replace('.mp4', '')
 
             if oldbase in digpres1:
-                SFSbase = "/Volumes/digitalpreservation"
+                SFSbase = "/Volumes/digitalpreservation/Africana_CD_Exec_video"
             elif oldbase in digpres2:
-                SFSbase = "/Volumes/digitalpreservation2"
+                SFSbase = "/Volumes/digitalpreservation2/Africana_CD_Exec_video"
             else:
                 sys.exit("Base not found.")
 

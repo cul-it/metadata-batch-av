@@ -1,0 +1,6 @@
+ls: /Volumes/digitalpreservation/Africana_CD_Exec_video/AFR_video_164_2/AFR_video_164_2_7000k.avi: No such file or directory
+ls: /Volumes/digitalpreservation/Africana_CD_Exec_video/AFR_video_164_2/AFR_video_164_2_7000k.mov: No such file or directory
+ls: /Volumes/digitalpreservation/Africana_CD_Exec_video/AFR_video_164_2/AFR_video_164_2_AM.mov: No such file or directory
+ls: /Volumes/digitalpreservation/Africana_CD_Exec_video/AFR_video_164_2/AFR_video_164_2_AM_exiftool.txt: No such file or directory
+ls: /Volumes/digitalpreservation/Africana_CD_Exec_video/AFR_video_164_2/AFR_video_164_2_mp4_exiftool.txt: No such file or directory
+ls: /Volumes/digitalpreservation/Africana_CD_Exec_video/AFR_video_172_3/AFR_video_172_3_AM_exiftool.txt: No such file or directory
