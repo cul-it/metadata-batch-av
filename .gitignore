@@ -2,3 +2,5 @@
 *.swp
 
 remap/review.txt
+
+remap/.generate_rename.py.swp
