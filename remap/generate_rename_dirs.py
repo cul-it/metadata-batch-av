@@ -42,7 +42,7 @@ with open(remap_input, 'rb') as csvfile:
                 sys.exit("Base not found.")
 
             # Start at Folder
-            print("cd {0}/{1}".format(SFSbase, oldbase))
+            print("cd {0}".format(SFSbase))
 
             # Issue rename
             print("rename -n -i -s {0} {1} *".format(oldbase, newbase))
