@@ -18,6 +18,6 @@ with open(remap_input, 'rb') as csvfile:
             sys.exit("Matching failed.")
 
         for i in range(0, len(oldnames)):
-            print("mv -i -v /Volumes/dcapspub/htdocs/kaltura/Africana/{0} /Volumes/dcapspub/htdocs/kaltura/Africana/{1}".format(oldnames[i], newnames[i]))
-
+#            print("mv -i -v /Volumes/dcapspub/htdocs/kaltura/Africana/{0} /Volumes/dcapspub/htdocs/kaltura/Africana/{1}".format(oldnames[i], newnames[i]))
+            print("rename -n -s {0} {1} /Volumes/LIB/Dcapspub/htdocs/kaltura/Africana/*".format(oldnames[i], newnames[i]))
  
