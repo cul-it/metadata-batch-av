@@ -6,3 +6,5 @@ remap/review.txt
 remap/.generate_rename.py.swp
 
 *.orig
+
+*.xlsx
