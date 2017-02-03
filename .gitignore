@@ -24,5 +24,4 @@ node_modules
 remap/review.txt
 remap/.generate_rename.py.swp
 *.orig
-*.xlsx
 remap/culecture/sorted_*
