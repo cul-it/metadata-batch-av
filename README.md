@@ -1,7 +1,9 @@
-#AV Digitization to eCommons Metadata Docs
+AV Digitization to eCommons Metadata Docs
+=========================================
 *Metadata point person: [Christina](mailto:cmh329@cornell.edu)*
 
-##Metadata Workflow
+Metadata Workflow
+-----------------
 This section primarily focuses on where Metadata Services (in particular Jasmine or Christina) plays a role. Has end-to-end workflow for sake of clarification.
 
 The core documentation of this workflow is managed by DCAPS here: https://confluence.cornell.edu/display/dcaps/Collection+Development+Executive+Grants+AV+Digitization+Workflow
@@ -19,17 +21,20 @@ Metadata/Batch handles:
 * generating metadata records post-digitization
 * performing metadata QA
 
-###Outstanding metadata questions:
+Outstanding metadata questions:
+-------------------------------
 
 * Want to add some fields to eCommons for this? Thinking dc.contributor.speaker, dc.subject.fast, dc.relation.bibID in particular. Right now, FAST headings get dumped in preference for keeping more specific dc.subject.lcsh.
 * This mapping works with all the metadata fields currently configured in eCommons - some of these fields are not currently used, so uncertain of their display. Will need to pass the mapping to Mira or possibly George for review on this front?
 * Want to eventually pull the eCommons handles for these items into the originating MARC records as 856 41s? Will need to discuss with Pam.
 
-##Tracking & Functional Requirements
+Tracking & Functional Requirements
+----------------------------------
 
 At present, this is managed through DCAPs' Zoho platform: https://projects.zoho.com/portal/cornelldcaps#allprojects
 
-##Metadata Mapping
+Metadata Mapping
+----------------
 
 For the eCommons Ingest spreadsheet/dataset. Source describes where the field should have been added to the dataset (see workflow steps above).
 
