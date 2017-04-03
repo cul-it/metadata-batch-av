@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record xmlns="http://www.loc.gov/MARC21/slim">
+        <leader>00000cjm a2200000Ia 4500</leader>
+        <controlfield tag="001">ocn124041191</controlfield>
+        <controlfield tag="003">OCoLC</controlfield>
+        <controlfield tag="005">20170204100341.2</controlfield>
+        <controlfield tag="007">ss zsnzzzipned</controlfield>
+        <controlfield tag="007">sd fsngnnmmned</controlfield>
+        <controlfield tag="008">070507s2007    xx sgnn           n zxx d</controlfield>
+        <datafield tag="040" ind1=" " ind2=" ">
+          <subfield code="a">KTS</subfield>
+          <subfield code="b">eng</subfield>
+          <subfield code="c">KTS</subfield>
+          <subfield code="d">OCLCQ</subfield>
+          <subfield code="d">OCLCF</subfield>
+          <subfield code="d">OCLCO</subfield>
+          <subfield code="d">OCLCQ</subfield>
+          <subfield code="d">OCLCA</subfield>
+    </datafield>
+        <datafield tag="033" ind1="0" ind2="0">
+          <subfield code="a">20070403</subfield>
+          <subfield code="b">3954</subfield>
+          <subfield code="c">L7</subfield>
+    </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+          <subfield code="a">(OCoLC)124041191</subfield>
+    </datafield>
+        <datafield tag="049" ind1=" " ind2=" ">
+          <subfield code="a">MAIN</subfield>
+    </datafield>
+        <datafield tag="110" ind1="2" ind2=" ">
+          <subfield code="a">Ceruti Chamber Players.</subfield>
+    </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+          <subfield code="a">Guest recital, 2007 /</subfield>
+          <subfield code="c">Ceruti Chamber Players.</subfield>
+    </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+          <subfield code="c">2007.</subfield>
+    </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+          <subfield code="a">1 audiocassette :</subfield>
+          <subfield code="b">digital ;</subfield>
+          <subfield code="c">2 7/8 x 2 1/8 in., 3/16 in. tape.</subfield>
+    </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+          <subfield code="a">1 audio disc (67 min.) :</subfield>
+          <subfield code="b">digital, stereo ;</subfield>
+          <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+          <subfield code="a">2 audio discs (71 min., 67 min.) :</subfield>
+          <subfield code="b">digital, stereo ;</subfield>
+          <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+        <datafield tag="336" ind1=" " ind2=" ">
+          <subfield code="a">performed music</subfield>
+          <subfield code="b">prm</subfield>
+          <subfield code="2">rdacontent</subfield>
+    </datafield>
+        <datafield tag="337" ind1=" " ind2=" ">
+          <subfield code="a">audio</subfield>
+          <subfield code="b">s</subfield>
+          <subfield code="2">rdamedia</subfield>
+    </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+          <subfield code="a">audiocassette</subfield>
+          <subfield code="b">ss</subfield>
+          <subfield code="2">rdacarrier</subfield>
+    </datafield>
+        <datafield tag="490" ind1="1" ind2=" ">
+          <subfield code="a">R. Inman Johnson guest recital series</subfield>
+    </datafield>
+        <datafield tag="511" ind1="0" ind2=" ">
+          <subfield code="a">Donald Gottlieb, flute ; Grace Baugh-Bennett, piano ; Robert Docs, double bass ; Mark Tate, percussion ; Trevor Johnson, oboe.</subfield>
+    </datafield>
+        <datafield tag="518" ind1=" " ind2=" ">
+          <subfield code="a">Recorded live in Heeren Hall, Southern Baptist Theological Seminary, Apr. 3, 2007.</subfield>
+    </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+          <subfield code="a">3 compact discs: 1 unedited master, 1 edited master, 1 listening CD.</subfield>
+    </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+          <subfield code="a">Digital audio tape.</subfield>
+    </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+          <subfield code="a">Trio / Madeleine Dring -- Spirit island / Andrea Clearfield -- Suite for flute and jazz piano trio / Claude Bolling.</subfield>
+    </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+          <subfield code="a">Jazz.</subfield>
+    </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+          <subfield code="a">Trios (Piano, flute, oboe)</subfield>
+    </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+          <subfield code="a">Trios (Piano, flute, double bass)</subfield>
+    </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+          <subfield code="a">Jazz.</subfield>
+          <subfield code="2">fast</subfield>
+          <subfield code="0">(OCoLC)fst00982165</subfield>
+    </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+          <subfield code="a">Trios (Piano, flute, double bass)</subfield>
+          <subfield code="2">fast</subfield>
+          <subfield code="0">(OCoLC)fst01157008</subfield>
+    </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+          <subfield code="a">Trios (Piano, flute, oboe)</subfield>
+          <subfield code="2">fast</subfield>
+          <subfield code="0">(OCoLC)fst01157015</subfield>
+    </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+          <subfield code="a">Dring, Madeleine.</subfield>
+          <subfield code="t">Trios,</subfield>
+          <subfield code="m">piano, flute, oboe.</subfield>
+    </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+          <subfield code="a">Clearfield, Andrea.</subfield>
+          <subfield code="t">Spirit Island.</subfield>
+    </datafield>
+        <datafield tag="700" ind1="1" ind2="2">
+          <subfield code="a">Bolling, Claude.</subfield>
+          <subfield code="t">Suites,</subfield>
+          <subfield code="m">flute, jazz ensemble,</subfield>
+          <subfield code="n">no. 1.</subfield>
+    </datafield>
+        <datafield tag="830" ind1=" " ind2="0">
+          <subfield code="a">R. Inman Johnson guest recital series.</subfield>
+    </datafield>
+  </record>
+</collection>
