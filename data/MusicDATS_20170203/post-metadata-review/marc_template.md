@@ -27,9 +27,7 @@ Things we need to check:
 =040  \\$aNIC$beng$erda$dNIC
 =035  \\$a[TBD]
 =090  \\$a[CALL NUMBER]
-=049  \\$aMAIN
-=100  1\$a[NAME]
-=245  10$a[TITLE] /$c[NAME].
+=245  00$a[TITLE] .
 =264  \0$c[YYYY].
 =300  \\$a[PART MAX] audiocassette[S] :$bdigital ;$c2 7/8 x 2 1/8 in., 3/16 in. tape.
 =336  \\$aperformed music$bprm$2rdacontent
